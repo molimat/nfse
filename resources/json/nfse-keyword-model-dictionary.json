@@ -1,0 +1,39 @@
+[{
+    "model": "abrasf1.00",
+    "filename": "abrasf1.00.xsd",
+    "nfseKeyword": [
+        {
+            "name": "riodejaneiro"
+        }, {
+            "name": "issnetonline"
+        }, {
+            "name": "ginfes"
+        }, {
+            "name": "portoalegre"
+        }, {
+            "name": "saojosedospinhais"
+        }
+    ]
+}, {
+    "model": "abrasf2.01",
+    "filename": "abrasf2.01.xsd",
+    "nfseKeyword": [
+        {
+            "name": "catalao"
+        }
+    ]
+}, {
+    "model": "abrasf2.02",
+    "filename": "abrasf2.02.xsd"
+}, {
+    "model": "abrasf2.04",
+    "filename": "abrasf2.04.xsd"
+}, {
+    "model": "saopaulo1.00",
+    "filename": "sao-paulo1.00.xsd",
+    "nfseKeyword": [
+        {
+            "name": "saopaulo"
+        }
+    ]
+}]
